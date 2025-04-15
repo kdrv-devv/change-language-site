@@ -6,9 +6,7 @@
 
 
 
-html{
-    font-size:  10px !important;
-}
+
 .bottom{
     background: url('./components//home-components//imges//imge.png');
     background-position: center;
@@ -16,7 +14,5 @@ html{
 }
 .aladin{
     font-family: "Edu AU VIC WA NT Pre", serif;
-    font-size:  6.4rem;
-    font-weight: 400;
     color: #ffff;
 }
